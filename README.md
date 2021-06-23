@@ -5,8 +5,7 @@
 
 
 # Table of Contents
-  - [Documentation](#1)
-  - [TODO](#5)
+  - [TODO](#1)
 
 <br />
 <br />
