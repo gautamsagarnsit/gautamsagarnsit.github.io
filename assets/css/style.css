@@ -64,8 +64,18 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #000c0c;
   overflow-y: auto;
+}
+.subheading {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: 'Saira Extra Condensed', serif;
+  font-size: 1.2rem;
+}
+div.skills-heading {
+  margin-top: 1em;
+  margin-bottom: 0 !important;
 }
 
 #header .profile img {
@@ -950,6 +960,8 @@ section {
   .breadcrumbs ol {
     display: block;
   }
+
+  
   .breadcrumbs ol li {
     display: inline-block;
   }
