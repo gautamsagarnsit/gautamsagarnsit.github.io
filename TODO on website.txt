@@ -3,3 +3,4 @@
 2.Add Course Taken/MOOCS section:
 	2.1 For each Course/MOOC a separate page showing syllabus, assignments, grade.
 3.Add Publication Section with links to the papers
+4.
