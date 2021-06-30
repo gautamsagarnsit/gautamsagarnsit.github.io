@@ -1,7 +1,7 @@
 # Personal Webapge
 
 
-[Website](https://gautamsagarnsit.github.io/gautamsagar.github.io/)
+[Website](https://gautamsagarnsit.github.io/)
 
 
 # Table of Contents
