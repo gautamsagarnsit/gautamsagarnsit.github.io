@@ -1,4 +1,4 @@
-# Personal Webapge
+# Personal Webpage
 
 
 [Website](https://gautamsagarnsit.github.io/)
